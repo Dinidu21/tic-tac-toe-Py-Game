@@ -1,0 +1,6 @@
+Tic Tac Toe Game Results
+Game between: Dinidu and Sachintha
+How many rounds in session: 2
+Player Dinidu wins: 2
+Player Sachintha wins: 0
+Draws: 0
