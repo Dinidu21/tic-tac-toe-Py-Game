@@ -4,7 +4,7 @@
 
 Welcome to the **Tic Tac Toe Game** project! 🎉 This is a simple yet engaging implementation of the classic Tic Tac Toe game in Python. Play against another player and enjoy the classic fun with a digital twist! 😄
 
-#📜 Instructions
+# 📜 Instructions
 
     Players: The game is designed for two players.
     Gameplay: Players take turns to place their sign (X or O) on the board.
@@ -65,6 +65,10 @@ We welcome contributions to enhance the game! Feel free to fork the repository a
 
 ## 📬 Contact
 
-For any inquiries or feedback, please reach out via [LinkedIn](www.linkedin.com/in/dinidu21).
+For any inquiries or feedback, please reach out via [LinkedIn](www.linkedin.com/in/dinidu21). 
+Dinidu 
+LinkedIn  - > (www.linkedin.com/in/dinidu21)
+Medium    - > (https://medium.com/@dinidusachintha)
+
 
 ---
